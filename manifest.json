@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "codecov",
+  "repo": "codecov-python",
+  "versions": [
+    {
+      "commit": "a78512e4b00e67cfb3fccb530c9ca97a6c42eae5",
+      "parsed_at": "2026-09-17T21:43:19.599370+00:00",
+      "tag": "v2.1.13",
+      "filetree": "filetree/a78512e4b00e67cfb3fccb530c9ca97a6c42eae5.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/f69f56d8bc0cf2a409420b0f5765ce7700a17e6b.nq.gz",
+        "blob/88cac4801351873e7291e4862b0f36b93f70a93b.nq.gz",
+        "blob/98a4412ad63b9da5cf429eeb603543e42edcdfc5.nq.gz",
+        "blob/2a9acf13daa95e85642ea255d3e3bd1ef8252804.nq.gz",
+        "blob/b07bc8fb14d787b5cdd349c612530d9873609ae2.nq.gz",
+        "blob/00ef8a0900c12f55d79652951b4cebb479c8bc7d.nq.gz",
+        "blob/99109edfa9d476c079c58a8d1dd2bdc0e173f911.nq.gz",
+        "blob/fae2de1e0d38af084140b7f127131149f2d7a904.nq.gz",
+        "blob/9f1f3a55e51dc493ff28b90b7ffade44db4188b6.nq.gz",
+        "blob/d5eb65e549cb94934173bab6d1684dd7cfe6dedb.nq.gz",
+        "blob/79d2d87e675c54cbd745d4f938942b408ee55fe8.nq.gz",
+        "blob/7dbe1dda2f9041030d1e72231c52d3856cff4420.nq.gz",
+        "blob/21e9b214fc2eaf333dbc22bbc01b73d5e20e6e1e.nq.gz",
+        "blob/60d08bb38b97db5ded6dc8dafae69855edb4cbeb.nq.gz",
+        "blob/491deae0af2cae800a8fd1bc1ffb5ecd09221266.nq.gz",
+        "blob/84880fa643a705f39f2a9efe02da727bbe4c342b.nq.gz",
+        "blob/1025c49bfe71d0cb4ab91b7c929baa9a92a5f92b.nq.gz",
+        "blob/2e65efe2a145dda7ee51d1741299f848e5bf752e.nq.gz",
+        "blob/27531afdf4a4f9b592cb6de8d8496e49d190a15c.nq.gz",
+        "blob/cc2be9564e0c74f6a34f46fe90cf3d1640599f12.nq.gz",
+        "blob/d93121bfbaecd41693f28d5237afed79b03426ac.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
